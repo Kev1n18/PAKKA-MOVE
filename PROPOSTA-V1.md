@@ -85,3 +85,8 @@ kevin
 kenzo
 ```
 
+# Descrição do Progresso do Utilizador na Aplicação 
+
+Ao inicializar a aplicação, a mesma pergunta ao usuário se deseja permitir que seja usada a sua localização, se poderá usar a sua localização exata, permitir que seja usada a localização apenas durante a utilização da app, permitir localização apenas uma vez e também o envio de notificações para o usuário. 
+
+Posteriormente será solicitado ao usuário um email, para que seja possível iniciar sessão na app, caso o usuário não aceite pode entrar como convidado, assim sendo podemos começar a usar a app, selecionando os MULTIBANCOS e ATM´S mais próximos que satisfação os desejos do usuário. Podemos também usar filtros e guardar nos favoritos os MULTIBANCOS E ATM´S preferidos do cliente. 
