@@ -16,7 +16,7 @@ Kenzo Domingos-20210960
 * [Benchmarking de mercado](#benchmarking-de-mercado)
 * [Guiões de teste](#guiões-de-teste)
 * [Descrição genérica da solução a implementar](#descrição-genérica-da-solução-a-implementar)
-* [Requisitos Técnicos para desenvolvimento do projeto](#requisitos-técnicos-para-desenvolvimento-do-projeto)
+* [Enquadramento nas diversas Unidades Curriculares](#requisitos-técnicos-para-desenvolvimento-do-projeto)
 * [Arquitetura da Solução](#arquitetura-da-solução)
 * [Modelo de Domínio](#modelo-de-domínio)
 * [Tecnologias a utilizar](#tecnologias-a-utilizar)
