@@ -1,6 +1,6 @@
 # # Paka_Move 
 
-![Header](images/IADE.png)
+
 Eularinani Ecombe-20210329 
 
 Kevin Dos Santos-20210448 
@@ -13,10 +13,10 @@ Kenzo Domingos-20210960
 * [Introdução](#introdução)
 * [Objetivos](#objetivos)
 * [Pesquisa](#pesquisa)
-* [Benchmarking de mercado](#benchmarking-de-mercado)
+* [Benchmarking](#benchmarking)
 * [Guiões de teste](#guiões-de-teste)
 * [Descrição genérica da solução a implementar](#descrição-genérica-da-solução-a-implementar)
-* [Requisitos Técnicos para desenvolvimento do projeto](#requisitos-técnicos-para-desenvolvimento-do-projeto)
+* [Enquadramento nas diversas Unidades Curriculares](#enquadramento-nas-diversas-unidades-curriculares)
 * [Arquitetura da Solução](#arquitetura-da-solução)
 * [Modelo de Domínio](#modelo-de-domínio)
 * [Tecnologias a utilizar](#tecnologias-a-utilizar)
